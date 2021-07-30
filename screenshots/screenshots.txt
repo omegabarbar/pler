@@ -1,0 +1,2 @@
+Folder with a screenshots of screen.
+Folder can be empty beacuse screenshot not maked.
