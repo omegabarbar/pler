@@ -1,5 +1,5 @@
-SpyBot простой бот для Телеграма!
-Простое использование, большой функционал!
-Версия 1.0
-Автор Иван Пержинский
-Язык Питон
+SpyBot adalah bot sederhana untuk Telegram!
+Mudah digunakan, fungsionalitas hebat!
+Versi 1.0
+Penulis OmegaBarBaR
+Bahasa Python
