@@ -1,0 +1,2 @@
+Folder with screenshots from webcam.
+Folder can be empty beacuse screenshot not maked.
