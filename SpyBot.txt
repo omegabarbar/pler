@@ -1,0 +1,5 @@
+SpyBot adalah bot sederhana untuk Telegram!
+Mudah digunakan, fungsionalitas hebat!
+Versi 1.0
+Penulis OmegaBarBaR
+Bahasa Python
